@@ -1,0 +1,161 @@
+.navbar{
+    background-color: #07234b;
+    margin-top: 0% ;
+    height: 200px;
+    width: 1425px;
+}
+.img{
+    width: 150x;
+    height:  100px; 
+    margin-left: 360px;
+    margin-top: 10px;
+}
+.content{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-left: 600px;
+    font-size: 31px;
+    line-height: 1.2;
+    font-family: "Merriweather", "Times New Roman", Times, serif;
+    font-weight: 700;
+    color: #99d0d7;
+} 
+.box1{
+    background-color: #d8ebef;
+    height: 700px;
+    margin-top: 20px;
+}
+.box2{
+    background-color: #F9F9F9;
+    width: 1000px;
+    height: 650px;
+    margin-left: 300px;
+}
+.main{
+    width: 900px;
+    height: 300px; 
+    margin-left: 500px;
+}
+.line{
+background-color: #99d0d7; 
+width: 900px;
+height: 3px;
+margin-top: 10px;
+align-items: center;
+margin-left: 50px;
+
+}
+.word{
+    color: #01a2a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 40px;
+}
+.container{
+    position: relative;
+    
+}
+.mark{
+    width: 1200px;
+    height: 525px;
+    position: absolute;
+}
+.photos{
+    position: absolute; 
+    width: 250px;
+    height: 250px;
+    margin-top:  30 px ;
+    margin-left:  150px;
+    opacity: 85%;
+    
+
+}
+.water{
+    width: 900px; 
+    height:  550px;
+     
+}
+.name{
+    position: absolute;
+    margin-top: 280px; 
+    margin-left: 200px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 900;
+
+} 
+.route{
+
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 320px;
+    width: 500px;
+    margin-left: 130px; 
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.bus{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    margin-left: 150px;
+    width: 700px;
+    margin-top: 10px;
+
+}
+.animate{
+    color: #2f8a12;
+    animation: animate 3s linear infinite;
+    font-size: 20px;
+}
+@keyframes animate{ 
+    50%{
+        color: white;
+    }
+    100%{
+        color:  green;
+    }
+} 
+.valid{
+    color: red;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    width: 900px;
+    margin-left: 130px;
+    margin-top: 10px;
+
+
+}
+.sign{
+    width: 100px ;
+    height: 100px;
+    margin-left : 00px;
+}
+.qr{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px; 
+    margin-bottom: 00px ;
+    position: absolute;
+    margin-left:  400px;
+}
+.foo{
+    width: 1425px;
+    height: 100px ;
+    background-color: #01a2a6;
+}
+.copy{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: large;
+    margin-top: 25px;
+    margin-left: 25x
+}
