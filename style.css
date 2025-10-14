@@ -2,7 +2,7 @@
     background-color: #07234b;
     margin-top: 0% ;
     height: 200px;
-    width: 1425px;
+    width: 1420px;
 }
 .img{
     width: 150x;
@@ -23,6 +23,7 @@
 } 
 .box1{
     background-color: #d8ebef;
+    width: 1420px;
     height: 700px;
     margin-top: 20px;
 }
@@ -135,7 +136,7 @@ margin-left: 50px;
 .sign{
     width: 150px ;
     height: 100px;
-    margin-left : 00px;
+    margin-left : px;
 }
 .qr{
     width: 100px;
@@ -146,7 +147,7 @@ margin-left: 50px;
     margin-left:  400px;
 }
 .foo{
-    width: 1425px;
+    width: 1420px;
     height: 100px ;
     background-color: #01a2a6;
 }
@@ -158,5 +159,4 @@ margin-left: 50px;
     font-size: large;
     margin-top: 25px;
     margin-left: 25x
-
 }
